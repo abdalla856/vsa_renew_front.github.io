@@ -1,0 +1,162 @@
+.pdf__reader {
+  /* margin-top: 50px; */
+  /* background-color :black */
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.button_pdf {
+  background-color: rgb(255, 255, 255) !important;
+  width: 600px;
+  height: 40px;
+  border-radius:5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.form__to__apply{
+  /* height :300px; */
+  padding:10px 25px ;
+  width: 90%;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid ;
+  border-radius: 10px !important;
+
+  box-shadow: 2px 3px #15151b;
+}
+
+.MuiInputBase-input{
+
+  padding-top: 10px;
+
+}
+.container_visa{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+ 
+}
+
+
+.inputs{
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.inputs_2{
+  float: top;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: flex-start;
+  align-content: flex-end;
+  flex-wrap: wrap;
+}
+.button{
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 20px;
+}
+.MuiInputLabel-root{
+  margin-bottom: 20px;
+  font-size: 21px !important;
+  color :#858588 !important;
+}
+.upload_label{
+  color :black !important;
+  font-size: 27px !important;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+  font-weight: bolder !important;
+  padding: 30px !important;
+  /* margin-top: 20px; */
+}
+.form__pdf{
+  border : 2px solid black;
+  width: 94%;
+}
+.pdf_labels{
+  /* margin-left: 40px !important; */
+  padding: 30px !important;
+  text-align: center
+}
+.page_text{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+  font-size: 24px !important;
+
+}
+.button_ {
+
+
+  padding-left :50px !important;
+  padding-right :50px !important;
+}
+.button_:hover {
+
+
+background-color:blue !important;
+color:white;
+}
+
+#demo-row-radio-buttons-group-label{
+  text-align:left;
+  position: relative;
+  right: 130px;
+  color :black;
+  font-size:24px;
+  font-weight: bold  !important;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+
+}
+.radio_pdf{
+  background-color:black;
+  overflow: hidden
+  /* display: flex; */
+}
+
+.row-radio-buttons{
+  flex-direction: row !important;
+}
+
+.btn_allow{
+  margin:10px  0 20px 0!important;
+  /* background-color: #273da8!important; */
+  border:2px solid rgb(37, 32, 32) !important;
+}
+.btn_ref{
+  margin:10px  0 20px 0!important;
+  /* background-color: #273da8!important; */
+  border:2px solid rgb(37, 32, 32) !important;
+
+}
+.react-pdf__Page__canvas{
+  display: flex !important;
+}
+.img_pdf{
+  vertical-align: middle;
+  width: 400px;
+  height: 400px;
+  border-radius:0;
+}
+.decline_red {
+  background-color: red !important;
+  color :white !important;
+}
+.decline_green {
+  background-color: green !important;
+  color :white !important;
+}
+.back_transparent {
+  background-color:transparent !important;
+  color :black !important;
+  
+}
