@@ -1,0 +1,34 @@
+table {
+    margin-top: 25px;
+    color: white !important;
+    width: 80% !important;
+    background-color: rgb(46, 40, 40);
+    margin-left: 120px;
+    margin-bottom: 30px;
+  }
+  .head_table {
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+  
+    color: rgb(112, 112, 112);
+    font-weight: 10px;
+    font-size: 45px;
+  }
+  th,
+  td {
+    color: rgb(187, 186, 186) !important;
+  }
+  .table_app {
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+  
+  .t_btton {
+    color: white !important;
+    border-color: white !important;
+    border-radius: 15% !important;
+    border: 2px !important;
+    border-style: solid !important;
+  }
+  
